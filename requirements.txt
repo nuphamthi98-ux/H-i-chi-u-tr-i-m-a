@@ -1,0 +1,10 @@
+flask
+requests
+curl_cffi
+pillow
+pypdf
+python-docx
+openpyxl
+gunicorn
+cryptography
+pytesseract
